@@ -1,0 +1,1 @@
+# word_translater_dot_net_core
